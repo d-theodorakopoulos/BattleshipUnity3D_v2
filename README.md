@@ -1,2 +1,2 @@
-# Battleship_v2
-Battleship version 2
+# BattleshipUnity3D_v2
+Battleship with unity3D version 2
